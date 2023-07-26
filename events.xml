@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adventure>
+<event>
+<name>Pranav Katte</name>
+<email>pranavkatte07@gmail.com</email>
+<phone>9678854328</phone>
+<venue>Himachal Pradesh</venue>
+<charge>20000</charge>
+<details>Trek to the Himalayas...</details>
+</event>
+</adventure>
+
+<form class="comm" method="post" action="readxml.php">
